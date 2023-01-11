@@ -4,6 +4,7 @@ package es.unex.asee.frojomar.asee_ses.utils;
 //simulacion implementacion caso de uso 18 - Rol: AS
 //simulacion implementacion caso de uso 18 - Rol: DS
 //simulacion implementacion caso de uso 21 - Rol: AS
+//simulacion implementacion caso de uso 21 - Rol: DS
 import java.sql.Time;
 import java.text.DateFormat;
 import java.text.ParseException;
